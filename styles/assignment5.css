@@ -45,10 +45,10 @@ section.section2 {
 #header {
     width: 100%;
 	position: absolute;
-	left: 0;
+	/*left: 0; --*/
 }
 #header .body {
-	margin: 0 auto;
+	margin: auto;
 	padding-top: 0;
 }
 #footer {
