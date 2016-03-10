@@ -9,8 +9,8 @@ body {
 #page {
 	/*margin: 0 auto;*/
 	padding-top: 70px;
-	padding-left: 40px;
-	padding-right: 40px;
+	/*padding-left: 40px;
+	padding-right: 40px;*/
 	padding-bottom: 0px;
 	text-decoration: none;
     font-size: 16px;
@@ -61,8 +61,8 @@ section.section2 {
 #footer .body {
 	margin: auto;
 	padding-bottom: 20px;
-	padding-left: 40px;
-	padding-right: 40px;
+	/*padding-left: 40px;
+	padding-right: 40px; --*/
 	padding-top: 20px;
 }
 select {
