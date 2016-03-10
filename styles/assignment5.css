@@ -43,7 +43,7 @@ section.section2 {
 }
 
 #header {
-    width: 100%;
+    width: 600px;
 	position: absolute;
 	/*left: 0; --*/
 }
