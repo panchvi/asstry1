@@ -48,8 +48,8 @@ section.section2 {
 	width: 100%;
 	position: absolute;
 	left: 0;
-	margin-top: 420px;
-	/*bottom: 0;*/
+	/*margin-top: 420px;*/
+	bottom: 0;
 }
 #footer .body {
 	margin: auto;
